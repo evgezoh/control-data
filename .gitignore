@@ -100,7 +100,7 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
-
+.dvc/
 # Environments
 .env
 .venv
